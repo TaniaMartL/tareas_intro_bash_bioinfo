@@ -1,5 +1,6 @@
 
 ### Tania Martínez León   
-### Introducción a la programaciòn Bioinformàtica con bash
+### Introducción a la Programación Bioinformática con bash
 
-#### En este repositorio se almacenaran las tareas correspondientes al curso: Introducciòn a la programaciòn Bioinformàtica con bash
+#### En este repositorio se almacenaran las tareas correspondientes al curso: Introducción a la Programación Bioinformática con bash
+
