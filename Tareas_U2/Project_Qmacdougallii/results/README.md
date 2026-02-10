@@ -1,0 +1,1 @@
+#### En esta carpeta se  almacenaran los resultados generados del proyecto de *Q. macdougallii*

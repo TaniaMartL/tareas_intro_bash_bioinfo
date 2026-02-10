@@ -1,0 +1,1 @@
+#### En esta carpeta se almacenaran los scripts necesarios para realizar los análisis del proyecto de *Q. macdougallii*

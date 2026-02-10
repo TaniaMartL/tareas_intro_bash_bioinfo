@@ -1,0 +1,1 @@
+#### En esta carpeta se encuentran las secuencias crudas de *Q. macdougallii*
