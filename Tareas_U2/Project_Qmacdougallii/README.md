@@ -22,6 +22,7 @@
 ##### Calling de variantes: Se usara BCFtools sobre las lecturas alineadas (BAM files, resultado de Geneious) para llamar variantes específicamente en las regiones de sus genes candidatos.
 ##### Filtrado básico: Se Filtraran las variantes por calidad, profundidad de lectura (DP),  usando vcftools
 #### Análisis poblacional básico: Con vcftools, se calculara:
-##### Frecuencias alélicas por población (--freq2). Compare las frecuencias de los alelos en cada zona.
-##### Estadísticos de diferenciación (--weir-fst-pop). El Fst es fundamental. Un Fst alto para un gen/variante sugiere diferenciación significativa entre las dos zonas, posiblemente por selección local asociada al clima.
-##### Estadísticos de diversidad nucleotídica (--site-pi, --window-pi). Compare la diversidad genética (π) dentro de cada población para las regiones candidatas.
+##### Frecuencias alélicas por población. Se Compararan las frecuencias de los alelos en los individuos.
+##### Estadísticos de diferenciación. se calculara el coeficiente Fst. Un Fst alto para un gen/variante sugiere diferenciación significativa entre individuos.
+##### Estadísticos de diversidad nucleotídica. Se Comparara la diversidad genética (π) dentro de cada población para las regiones candidatas.
+
