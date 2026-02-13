@@ -16,12 +16,11 @@
 ## 5) Almacenamiento
 ### Tipo: SSD 
 ### Capacidad total: 512 gb
-### ¿Se puede agregar o cambiar por un SSD o NVMe?
-## 6) Gráficos (GPU)
 ### ¿Integrados o dedicada? Integrada 
 ## Modelo (si aplica): AMD Radeon Graphics
 ## 7) Reflexión final (breve)
 ### ¿qué limita más tu equipo para bioinformática: CPU, RAM, almacenamiento, tiempo de ejecucion de análisis (laptop), GPU, etc.?
 #### Almacenamiento, RAM 
+
 
 
