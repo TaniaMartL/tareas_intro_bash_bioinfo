@@ -9,7 +9,6 @@
 ### Modelo exacto: AMD Ryzen 7 5700U with Radeon Graphics          (1.80 GHz)
 ### Núcleos / hilos:  8 nucleos/ 16 hilos 
 ### Frecuencia base: 4.3GHz
-### Frecuencia base / turbo (si aparece):
 ## 4) Memoria RAM
 ### RAM instalada (GB): 16
 ### Tipo y velocidad (si aparece): DDR4
@@ -24,4 +23,5 @@
 ## 7) Reflexión final (breve)
 ### ¿qué limita más tu equipo para bioinformática: CPU, RAM, almacenamiento, tiempo de ejecucion de análisis (laptop), GPU, etc.?
 #### Almacenamiento, RAM 
+
 
