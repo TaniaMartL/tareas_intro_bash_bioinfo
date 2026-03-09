@@ -22,12 +22,13 @@ scp  - $DESTINO/$ARCHIVO $USUARIO_UBUNTU@$IP_UBUNTU:$DESTINO_REMOTO
 
 # Verificar si la transferencia fue exitosa
 if [ $? -eq 0 ]; then
-    MENSAJE="✅ Backup transferido correctamente: $ARCHIVO"
+    MENSAJE="Backup transferido correctamente: $ARCHIVO"
 else
-    MENSAJE="❌ Error al transferir el backup: $ARCHIVO"
+    MENSAJE="Error al transferir el backup: $ARCHIVO"
 fi
 
 # Enviar notificación a Telegram
 curl -s -X POST "https://api.telegram.org/bot$TOKEN/sendMessage" \
 -d chat_id=$CHAT_ID \
+
 -d text="$MENSAJE"
